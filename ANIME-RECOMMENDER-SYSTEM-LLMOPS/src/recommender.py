@@ -1,4 +1,4 @@
-from langchain.chains import RetrievalQA
+from langchain_classic.chains import RetrievalQA
 from langchain_groq import ChatGroq
 from src.prompt_template import get_anime_prompt
 

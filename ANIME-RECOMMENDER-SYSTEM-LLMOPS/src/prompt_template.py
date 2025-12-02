@@ -1,4 +1,4 @@
-from langchain.prompts import PromptTemplate
+from langchain_classic.prompts import PromptTemplate
 
 def get_anime_prompt():
     template = """
